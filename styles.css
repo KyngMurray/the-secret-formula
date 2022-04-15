@@ -1,0 +1,40 @@
+body{
+    padding: 100px;
+    background-color:whitesmoke;
+}
+
+#title{
+    margin-left: 400px;
+    
+}
+
+div{
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
+form{
+    border-style:outset;
+    border-radius: 5px;
+    border-width: 12px;
+    display: flex;
+    flex-direction:unset;
+   
+  
+}
+
+#submitButton{
+    font-family: 'Abril Fatface', cursive;
+}
+
+#submitButton2{
+    font-family: 'Abril Fatface', cursive;
+}
+
+#submitButton3{
+    font-family: 'Abril Fatface', cursive;
+}
+
+#submitButton4{
+    font-family: 'Abril Fatface', cursive;
+}
